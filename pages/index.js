@@ -12,37 +12,37 @@ export default function Home() {
 
       <main>
         <Header title="leggo!" />
-        <div class="perspective">
-    <div class="slider">
-        <div class="corridor">
+        <div className="perspective">
+    <div className="slider">
+        <div className="corridor">
             <div></div>
             <div></div>
             <div></div>
-            <div></div><span class="img"></span><span class="img-mirror"></span>
+            <div></div><span className="img"></span><span className="img-mirror"></span>
         </div>
-        <div class="corridor">
+        <div className="corridor">
             <div></div>
             <div></div>
             <div></div>
-            <div></div><span class="img"></span><span class="img-mirror"></span>
+            <div></div><span className="img"></span><span className="img-mirror"></span>
         </div>
-        <div class="corridor">
+        <div className="corridor">
             <div></div>
             <div></div>
             <div></div>
-            <div></div><span class="img"></span><span class="img-mirror"></span>
+            <div></div><span className="img"></span><span className="img-mirror"></span>
         </div>
-        <div class="corridor">
+        <div className="corridor">
             <div></div>
             <div></div>
             <div></div>
-            <div></div><span class="img"></span><span class="img-mirror"></span>
+            <div></div><span className="img"></span><span className="img-mirror"></span>
         </div>
-        <div class="corridor">
+        <div className="corridor">
             <div></div>
             <div></div>
             <div></div>
-            <div></div><span class="img"></span><span class="img-mirror"></span>
+            <div></div><span className="img"></span><span className="img-mirror"></span>
         </div>
     </div>
 </div>
