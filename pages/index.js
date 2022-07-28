@@ -6,16 +6,48 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>lessssssss go!</title>
+        <title>lessssssss fuckin go!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
+        <Header title="leggo!" />
+        <div class="perspective">
+    <div class="slider">
+        <div class="corridor">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div><span class="img"></span><span class="img-mirror"></span>
+        </div>
+        <div class="corridor">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div><span class="img"></span><span class="img-mirror"></span>
+        </div>
+        <div class="corridor">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div><span class="img"></span><span class="img-mirror"></span>
+        </div>
+        <div class="corridor">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div><span class="img"></span><span class="img-mirror"></span>
+        </div>
+        <div class="corridor">
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div><span class="img"></span><span class="img-mirror"></span>
+        </div>
+    </div>
+</div>
       </main>
+
 
       <Footer />
     </div>
