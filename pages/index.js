@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="leggo!" />
+        <Header title="Welcome to my app!" />
         <div className="perspective">
     <div className="slider">
         <div className="corridor">
